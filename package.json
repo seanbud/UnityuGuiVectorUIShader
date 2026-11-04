@@ -1,0 +1,24 @@
+{
+  "name": "com.seanbud.vectorui",
+  "version": "1.0.0",
+  "displayName": "VectorUI",
+  "description": "Design-grade procedural SDF shape renderer for Unity UGUI. Renders rounded rectangles, ellipses, stars, gradients, strokes, drop shadows, and inner shadows in a single shader with zero sprite texture dependencies.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Sean Budning",
+    "url": "https://github.com/seanbud"
+  },
+  "keywords": [
+    "ui",
+    "ugui",
+    "vector",
+    "sdf",
+    "shader",
+    "shapes",
+    "shadow",
+    "gradient"
+  ],
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  }
+}

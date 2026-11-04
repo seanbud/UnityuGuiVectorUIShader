@@ -1,0 +1,19 @@
+{
+    "name": "VectorUI.Editor",
+    "rootNamespace": "VectorUI.Editor",
+    "references": [
+        "VectorUI.Runtime",
+        "GUID:75469d4e7ff059b48841ae2a8ac11008"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

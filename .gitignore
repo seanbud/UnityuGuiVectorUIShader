@@ -1,0 +1,15 @@
+*.meta.temp
+*.meta.orig
+.DS_Store
+Thumbs.db
+*.user
+*.userprefs
+*.pidb
+*.suo
+Build/
+Builds/
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/

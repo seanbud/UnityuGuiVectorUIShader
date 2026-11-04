@@ -1,0 +1,16 @@
+{
+    "name": "VectorUI.Runtime",
+    "rootNamespace": "VectorUI",
+    "references": [
+        "GUID:75469d4e7ff059b48841ae2a8ac11008"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

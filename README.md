@@ -40,7 +40,7 @@ A standalone, drop-in UI graphic component for any Unity project.
 3. Click the `+` button in the top left and choose **Add package from git URL...**.
 4. Enter:
    ```
-   https://github.com/seanbud/VectorUI.git
+   https://github.com/seanbud/UnityuGuiVectorUIShader.git
    ```
 
 Alternatively, clone or place this folder into your project's `Packages/` or `Assets/` directory.
